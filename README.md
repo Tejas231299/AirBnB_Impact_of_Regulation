@@ -4,7 +4,7 @@ Airbnb is an online marketplace that connects people who want to rent out their 
 ## Project Link
 
 
-<img src="https://www.stocksbnb.com/wp-content/uploads/2021/08/airbnb-678x381-1.png" width=1000>
+<img src="[https://www.stocksbnb.com/wp-content/uploads/2021/08/airbnb-678x381-1.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechcrunch.com%2F2015%2F02%2F27%2Fairbnb-2%2F&psig=AOvVaw2CX8ScY6xb6NK5c-kJvtSe&ust=1749192671751000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCEzv_Y2Y0DFQAAAAAdAAAAABAL)" width=1000>
 
 ## Overview :
 This dataset contains Airbnb data for over 250,000 listings across 10 major cities worldwide. It includes detailed information about hosts, pricing, locations, room types, and over 5 million historical guest reviews. The dataset provides valuable insights for studying trends in the short-term rental market.

@@ -22,7 +22,7 @@ Includes guest reviews for Airbnb properties, covering feedback, review dates, a
 2. After the startup is known to everyone and becomes a common utility, AirBnBs start increasing in numbers and prices also kept on decreasing.
 3. After regulation was announced around 2015 there was under confidence in the business, number of AirBnBs started decreasing and prices started increasing.
 4. Once the regulation is the new normal, during the year 2019 the number of AirBnBs have increased in number and prices kept decreasing due to more supply of them.
-
+   
 ## Recommendation :
 1. Regulations in long term rentals can impact the business adversely, there might be customer and hosts churn due to uncertainty.
 2. Such regulations might add to AirBnBs losses which might be difficult to recover later.

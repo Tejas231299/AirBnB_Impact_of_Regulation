@@ -1,9 +1,6 @@
 # AirBnB Listing & Reviews
 Airbnb is an online marketplace that connects people who want to rent out their homes with travelers seeking accommodations. 
 
-## Project Link
-
-
 <img src="airbnb-a8707ed9_original.webp" width=1000>
 
 ## Overview :
